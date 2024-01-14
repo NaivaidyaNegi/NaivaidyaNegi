@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NaivaidyaNegi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C ,JAVA, wev Development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me naivaidyanegi@gmail.com 
 
 <!---
