@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaivaidyaNegi
-- 🌱 I’m currently learning C ,JAVA, wev Development 
+- 🌱 I’m currently learning C ,JAVA, Web Development 
 - 📫 How to reach me naivaidyanegi@gmail.com 
 
 <!---
